@@ -1,4 +1,6 @@
-# single-page-CRUD-php
-Single Page CRUD operation in PHP
+# single-page-CRUD-php-SQLite
 
-This Repository Contains Single Page CRUD operation like Insert Update Edit and Delete operation in php
+Single Page CRUD operation in PHP and SQLite3.
+
+
+Forked from https://github.com/mitulsarvaiya/single-page-CRUD-php.
